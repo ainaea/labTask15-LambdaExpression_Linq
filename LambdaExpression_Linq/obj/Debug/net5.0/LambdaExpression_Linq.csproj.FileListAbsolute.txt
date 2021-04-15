@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\C#  labTask\labTask15-LambdaExpression_Linq\LambdaExpression_Linq\bin\Debug\net5.0\LambdaExpression_Linq.exe
+C:\CodebitsAcademy\C#  labTask\labTask15-LambdaExpression_Linq\LambdaExpression_Linq\bin\Debug\net5.0\LambdaExpression_Linq.deps.json
+C:\CodebitsAcademy\C#  labTask\labTask15-LambdaExpression_Linq\LambdaExpression_Linq\bin\Debug\net5.0\LambdaExpression_Linq.runtimeconfig.json
+C:\CodebitsAcademy\C#  labTask\labTask15-LambdaExpression_Linq\LambdaExpression_Linq\bin\Debug\net5.0\LambdaExpression_Linq.runtimeconfig.dev.json
+C:\CodebitsAcademy\C#  labTask\labTask15-LambdaExpression_Linq\LambdaExpression_Linq\bin\Debug\net5.0\LambdaExpression_Linq.dll
+C:\CodebitsAcademy\C#  labTask\labTask15-LambdaExpression_Linq\LambdaExpression_Linq\bin\Debug\net5.0\ref\LambdaExpression_Linq.dll
+C:\CodebitsAcademy\C#  labTask\labTask15-LambdaExpression_Linq\LambdaExpression_Linq\bin\Debug\net5.0\LambdaExpression_Linq.pdb
+C:\CodebitsAcademy\C#  labTask\labTask15-LambdaExpression_Linq\LambdaExpression_Linq\obj\Debug\net5.0\LambdaExpression_Linq.csprojAssemblyReference.cache
+C:\CodebitsAcademy\C#  labTask\labTask15-LambdaExpression_Linq\LambdaExpression_Linq\obj\Debug\net5.0\LambdaExpression_Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\C#  labTask\labTask15-LambdaExpression_Linq\LambdaExpression_Linq\obj\Debug\net5.0\LambdaExpression_Linq.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask15-LambdaExpression_Linq\LambdaExpression_Linq\obj\Debug\net5.0\LambdaExpression_Linq.AssemblyInfo.cs
+C:\CodebitsAcademy\C#  labTask\labTask15-LambdaExpression_Linq\LambdaExpression_Linq\obj\Debug\net5.0\LambdaExpression_Linq.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask15-LambdaExpression_Linq\LambdaExpression_Linq\obj\Debug\net5.0\LambdaExpression_Linq.dll
+C:\CodebitsAcademy\C#  labTask\labTask15-LambdaExpression_Linq\LambdaExpression_Linq\obj\Debug\net5.0\ref\LambdaExpression_Linq.dll
+C:\CodebitsAcademy\C#  labTask\labTask15-LambdaExpression_Linq\LambdaExpression_Linq\obj\Debug\net5.0\LambdaExpression_Linq.pdb
+C:\CodebitsAcademy\C#  labTask\labTask15-LambdaExpression_Linq\LambdaExpression_Linq\obj\Debug\net5.0\LambdaExpression_Linq.genruntimeconfig.cache
